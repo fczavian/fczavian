@@ -18,160 +18,51 @@ Building scalable Discord applications, APIs, and developer tools with a focus o
 
 ---
 
-# 🚀 About Me
+## About
 
-- 🎨 Building **Guess The Drawing**
-- 🌐 Developing scalable REST APIs
-- ⚡ Focused on performance and clean architecture
-- 🤖 Passionate about Discord bots
-- 📚 Constantly learning new technologies
-- 💡 Turning ideas into production-ready software
+I enjoy creating software, experimenting with new ideas, and continuously improving my projects. Most of my work revolves around Discord applications, APIs, automation, and open source development.
 
 ---
 
-# 🛠️ Tech Stack
+## Featured Projects
 
-### Languages
+### 🎨 Guess The Drawing
 
-<p>
-<img src="https://skillicons.dev/icons?i=ts,js,nodejs,html,css" />
-</p>
+A multiplayer Discord drawing game with real-time guessing, progression systems, achievements, leaderboards, clans, and interactive gameplay.
 
-### Frameworks & Libraries
+### 🌐 GuessTheDrawing API
 
-<p>
-<img src="https://skillicons.dev/icons?i=nextjs,express,tailwind" />
-</p>
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
-### DevOps & Cloud
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,linux,cloudflare,nginx,git,github,githubactions,vscode" />
-</p>
+A public REST API that powers Guess The Drawing by serving drawing content and related game resources.
 
 ---
 
-# 🌟 Featured Projects
-
-## 🎨 Guess The Drawing
-
-Real-time multiplayer Discord drawing game featuring
-
-- Clan Wars
-- XP System
-- Achievements
-- Leaderboards
-- Canvas Profile Cards
-- Global Statistics
-- Slash Commands
-
----
-
-## 🌐 GuessTheDrawing API
-
-Enterprise-grade REST API powering Guess The Drawing.
-
-Features
-
-- Drawing batches
-- Cooldowns
-- Smart caching
-- MongoDB
-- Scalable architecture
-- Production ready
-
----
-
-## 🎵 Musify
-
-A modern Discord music bot with
-
-- Lavalink
-- Spotify
-- YouTube
-- High performance
-- Multi-node support
-
----
-
-# 📊 GitHub Statistics
+## GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=fczavian&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fczavian&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=fczavian&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fczavian&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-# 🔥 Contribution Streak
+## Contribution Streak
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=fczavian&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fczavian&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-# 📈 Activity Graph
+## Activity Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fczavian&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=fczavian&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
-
-</p>
-
----
-
-# 💻 Currently Working On
-
-- 🚀 Guess The Drawing
-- 🌐 GuessTheDrawing API
-- 🤖 Discord Applications
-- ⚙️ Performance Optimization
-- 🏗️ Scalable Backend Systems
-
----
-
-# 📫 Connect With Me
-
-<p>
-
-<a href="https://github.com/fczavian">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://fizzystudio.xyz">
-<img src="https://img.shields.io/badge/Website-0A84FF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fczavian&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
-
-Building the future, one project at a time.
+Thanks for stopping by.
 
 </div>
