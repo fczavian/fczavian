@@ -48,7 +48,7 @@ A public REST API that powers Guess The Drawing by serving drawing content and r
 ## Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fczavian&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=fczavian&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
