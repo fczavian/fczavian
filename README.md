@@ -1,17 +1,15 @@
 <div align="center">
 
-<img src="https://i.postimg.cc/C1GVqsSt/Chat-GPT-Image-Jul-29-2026-05-03-45-PM.png" width="100%" alt="FizzyStudio Banner"/>
+<img src="https://i.postimg.cc/C1GVqsSt/Chat-GPT-Image-Jul-29-2026-05-03-45-PM.png" width="100%" alt="FizzyStudio Banner">
 
 <br>
 
-# 👋 Hi, I'm Zavian
+# Hi, I'm Zavian
 
-### Founder of FizzyStudio
-
-Building scalable Discord applications, APIs, and developer tools with a focus on performance, reliability, and clean architecture.
+### FizzyStudio
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=4FC3F7&center=true&vCenter=true&width=900&lines=Founder+of+FizzyStudio;Building+Enterprise+Discord+Applications;Creating+Scalable+APIs;Node.js+%7C+TypeScript+Developer;Always+Learning+Something+New" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1200&color=4FC3F7&center=true&vCenter=true&width=900&lines=Discord+Applications;Open+Source+Projects;Backend+Development;Always+Learning" alt="Typing SVG">
 </p>
 
 </div>
@@ -20,7 +18,7 @@ Building scalable Discord applications, APIs, and developer tools with a focus o
 
 ## About
 
-I enjoy creating software, experimenting with new ideas, and continuously improving my projects. Most of my work revolves around Discord applications, APIs, automation, and open source development.
+I'm a developer from Pakistan with an interest in building Discord applications, backend services, and open source projects.
 
 ---
 
@@ -28,19 +26,19 @@ I enjoy creating software, experimenting with new ideas, and continuously improv
 
 ### 🎨 Guess The Drawing
 
-A multiplayer Discord drawing game with real-time guessing, progression systems, achievements, leaderboards, clans, and interactive gameplay.
+A multiplayer Discord drawing game featuring real-time gameplay, clans, achievements, leaderboards, progression, and interactive commands.
 
 ### 🌐 GuessTheDrawing API
 
-A public REST API that powers Guess The Drawing by serving drawing content and related game resources.
+A public REST API for the Guess The Drawing ecosystem, providing drawing content and related game resources.
 
 ---
 
-## GitHub Stats
+## GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=fczavian&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fczavian&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=fczavian&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400" alt="GitHub Stats">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fczavian&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400" alt="Top Languages">
 </p>
 
 ---
@@ -48,21 +46,21 @@ A public REST API that powers Guess The Drawing by serving drawing content and r
 ## Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=fczavian&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=fczavian&theme=github-dark&hide_border=true" alt="GitHub Streak">
 </p>
 
 ---
 
-## Activity Graph
+## Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fczavian&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fczavian&theme=github-dark&hide_border=true" alt="Contribution Graph">
 </p>
 
 ---
 
 <div align="center">
 
-Thanks for stopping by.
+Thanks for visiting.
 
 </div>
