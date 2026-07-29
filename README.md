@@ -18,7 +18,7 @@
 
 ## About
 
-I'm a developer from Pakistan with an interest in building Discord applications, backend services, and open source projects.
+I'm a developer from Pakistan interested in building Discord applications, backend services, APIs, and open source projects.
 
 ---
 
@@ -26,7 +26,7 @@ I'm a developer from Pakistan with an interest in building Discord applications,
 
 ### 🎨 Guess The Drawing
 
-A multiplayer Discord drawing game featuring real-time gameplay, clans, achievements, leaderboards, progression, and interactive commands.
+A multiplayer Discord drawing game featuring real-time gameplay, progression, achievements, clans, leaderboards, and interactive commands.
 
 ### 🌐 GuessTheDrawing API
 
@@ -37,8 +37,8 @@ A public REST API for the Guess The Drawing ecosystem, providing drawing content
 ## GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=fczavian&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400" alt="GitHub Stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fczavian&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400" alt="Top Languages">
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=fczavian&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fczavian&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -46,15 +46,15 @@ A public REST API for the Guess The Drawing ecosystem, providing drawing content
 ## Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=fczavian&theme=github-dark&hide_border=true" alt="GitHub Streak">
+  <img src="https://streak-stats.demolab.com?user=fczavian&theme=github-dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-## Activity
+## Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fczavian&theme=github-dark&hide_border=true" alt="Contribution Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fczavian&theme=github-dark&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
