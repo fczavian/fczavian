@@ -50,9 +50,6 @@
 <br>
 
 ## ⚡ About Me
-
-> 🤖 *"Building Discord bots so users don't have to interact with real humans."*
-
 - 🔭 Developer from **Pakistan 🇵🇰** building Discord applications & backend services at **FizzyStudio**
 - 💬 Interested in Discord ecosystems, multiplayer game bots, and server automation
 - ⚡ Focused on crafting user-centric tools and backend systems
