@@ -35,7 +35,7 @@
 
 <div align="center">
 
-  <img src="https://camo.githubusercontent.com/1700918b216fc2e6149873686c0039c927863569e7708384e958c521e4cc08bc/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7652494562424543376430554c68306363532f67697068792e676966" width="125px" alt="Dancing Robot">
+  <img src="https://i.postimg.cc/QC4jhFsh/f920ed6d57874e8d85fbc33f75bfdff7.gif" width="125px" alt="Dancing">
 
   <h2>💡 <b>Fun Fact:</b> <i>My Discord bots reply faster than your crush.</i> </h2>
 
