@@ -1,4 +1,5 @@
 <div align="center">
+
   <!-- Banner -->
   <img src="https://i.postimg.cc/C1GVqsSt/Chat-GPT-Image-Jul-29-2026-05-03-45-PM.png" width="100%" alt="FizzyStudio Banner">
 
@@ -15,7 +16,7 @@
   <!-- Typing SVG Animation -->
   <p align="center">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=800&lines=Building+Discord+Applications;Developing+Backend+Services+%26+APIs;Creating+Open+Source+Projects;Constantly+Learning+%26+Improving" alt="Typing SVG">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=850&lines=Building+Discord+bots+so+users+don't+have+to+interact+with+real+humans.;Developing+Backend+Services+%26+APIs;Creating+Open+Source+Projects;Constantly+Learning+%26+Improving" alt="Typing SVG">
     </a>
   </p>
 
@@ -34,10 +35,10 @@
 
 ## ⚡ About Me
 
-> **Developer from Pakistan** interested in building Discord applications, backend services, APIs, and open-source projects.
+> 🤖 *"Building Discord bots so users don't have to interact with real humans."*
 
-- 🔭 Building Discord applications and services at **FizzyStudio**
-- 💬 Interested in Discord ecosystems, multiplayer game bots, and server tools
+- 🔭 Developer from **Pakistan 🇵🇰** building Discord applications & backend services at **FizzyStudio**
+- 💬 Interested in Discord ecosystems, multiplayer game bots, and server automation
 - ⚡ Focused on crafting user-centric tools and backend systems
 
 <br>
