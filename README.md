@@ -35,7 +35,7 @@
 
 <div align="center">
 
-> ## ⚡ **Fun Fact:** *My Discord bots reply faster than your crush.* 😅
+> ## <img src="https://media.giphy.com/media/W3a0zO282fuBpsqqyD/giphy.gif" width="40px" alt="Dancing Robot"> **Fun Fact:** *My Discord bots reply faster than your crush.* 
 
 </div>
 
