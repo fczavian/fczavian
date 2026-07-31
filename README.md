@@ -7,7 +7,7 @@
 
   <!-- Animated Header -->
   <h1>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" alt="Wave">
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45px" alt="Wave">
     Hi there, I'm <b>Zavian</b>
   </h1>
 
@@ -35,7 +35,9 @@
 
 <div align="center">
 
-> ## <img src="https://camo.githubusercontent.com/1700918b216fc2e6149873686c0039c927863569e7708384e958c521e4cc08bc/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7652494562424543376430554c68306363532f67697068792e676966" width="35px" alt="Dancing Robot"> **Fun Fact:** *My Discord bots reply faster than your crush.* 😅
+  <img src="https://camo.githubusercontent.com/1700918b216fc2e6149873686c0039c927863569e7708384e958c521e4cc08bc/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7652494562424543376430554c68306363532f67697068792e676966" width="75px" alt="Dancing Robot">
+
+  <h2>💡 <b>Fun Fact:</b> <i>My Discord bots reply faster than your crush.</i> 😅</h2>
 
 </div>
 
