@@ -16,7 +16,7 @@
   <!-- Typing SVG Animation -->
   <p align="center">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=24&duration=2800&pause=1000&color=00F2FE&center=true&vCenter=true&width=850&lines=Fun+Fact%3A+My+Discord+bots+reply+faster+than+your+crush.+%F0%9F%98%85;Building+Discord+bots+so+users+don't+have+to+interact+with+real+humans.;Developing+Backend+Services+%26+APIs" alt="Typing SVG">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=24&duration=2800&pause=1000&color=00F2FE&center=true&vCenter=true&width=850&lines=Fun+Fact%3A+My+Discord+bots+reply+faster+than+your+crush.+%F0%9F%98%85;Developing+Backend+Services+%26+APIs" alt="Typing SVG">
     </a>
   </p>
 
