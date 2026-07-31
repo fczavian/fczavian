@@ -35,8 +35,8 @@
 
 ## ⚡ About Me
 
-> 🤖 *"Building Discord bots so users don't have to interact with real humans."*  
-> 💡 **Fun Fact:** My Discord bots reply faster than your crush. 😅
+> *"Building Discord bots so users don't have to interact with real humans."*  
+> **Fun Fact:** My Discord bots reply faster than your crush. 😅
 
 - 🔭 Developer from **Pakistan 🇵🇰** building Discord applications & backend services at **FizzyStudio**
 - 💬 Interested in Discord ecosystems, multiplayer game bots, and server automation
