@@ -16,7 +16,7 @@
   <!-- Typing SVG Animation -->
   <p align="center">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=850&lines=Building+Discord+bots+so+users+don't+have+to+interact+with+real+humans.;Developing+Backend+Services+%26+APIs;Creating+Open+Source+Projects;Constantly+Learning+%26+Improving" alt="Typing SVG">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=850&lines=My+Discord+bots+reply+faster+than+your+crush...%F0%9F%98%85;Building+Discord+bots+so+users+don't+have+to+interact+with+real+humans.;Developing+Backend+Services+%26+APIs;Constantly+Learning+%26+Improving" alt="Typing SVG">
     </a>
   </p>
 
@@ -35,7 +35,8 @@
 
 ## ⚡ About Me
 
-> 🤖 *"Building Discord bots so users don't have to interact with real humans."*
+> 🤖 *"Building Discord bots so users don't have to interact with real humans."*  
+> 💡 **Fun Fact:** My Discord bots reply faster than your crush. 😅
 
 - 🔭 Developer from **Pakistan 🇵🇰** building Discord applications & backend services at **FizzyStudio**
 - 💬 Interested in Discord ecosystems, multiplayer game bots, and server automation
