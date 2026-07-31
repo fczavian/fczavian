@@ -35,7 +35,7 @@
 
 <div align="center">
 
-<img src="https://i.postimg.cc/QC4jhFsh/f920ed6d57874e8d85fbc33f75bfdff7.gif" width="70">
+<img src="./f920ed6d57874e8d85fbc33f75bfdff7.gif" width="70">
 
 **💡 Fun Fact**
 
