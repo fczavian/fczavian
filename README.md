@@ -35,9 +35,9 @@
 
 <div align="center">
 
-<img src="https://i.postimg.cc/QC4jhFsh/f920ed6d57874e8d85fbc33f75bfdff7.gif" width="85" alt="Ghost">
+<img src="https://i.postimg.cc/QC4jhFsh/f920ed6d57874e8d85fbc33f75bfdff7.gif" width="70">
 
-### 💡 Fun Fact
+**💡 Fun Fact**
 
 *My Discord bots reply faster than your crush.* 😅
 
