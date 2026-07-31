@@ -1,9 +1,4 @@
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fczavian/fczavian/output/github-contribution-grid-snake-dark.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fczavian/fczavian/output/github-contribution-grid-snake.svg">
-</picture>
-
   <!-- Banner -->
   <img src="https://i.postimg.cc/C1GVqsSt/Chat-GPT-Image-Jul-29-2026-05-03-45-PM.png" width="100%" alt="FizzyStudio Banner">
 
