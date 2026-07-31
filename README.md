@@ -35,7 +35,7 @@
 
 <div align="center">
 
-  <img src="https://i.postimg.cc/QC4jhFsh/f920ed6d57874e8d85fbc33f75bfdff7.gif" width="125px" alt="Dancing">
+  <img src="./assets/dancing.gif" width="125px" alt="Dancing">
 
   <h2>💡 <b>Fun Fact:</b> <i>My Discord bots reply faster than your crush.</i> </h2>
 
