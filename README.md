@@ -35,17 +35,11 @@
 
 <div align="center">
 
-<p>
-  <img src="https://i.postimg.cc/QC4jhFsh/f920ed6d57874e8d85fbc33f75bfdff7.gif"
-       width="125"
-       alt="Dancing"
-       align="middle">
+<img src="https://i.postimg.cc/QC4jhFsh/f920ed6d57874e8d85fbc33f75bfdff7.gif" width="85" alt="Ghost">
 
-  <span style="font-size:30px;">
-    💡 <b>Fun Fact:</b>
-    <i>My Discord bots reply faster than your crush.</i>
-  </span>
-</p>
+### 💡 Fun Fact
+
+*My Discord bots reply faster than your crush.* 😅
 
 </div>
 
