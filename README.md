@@ -35,7 +35,21 @@
 
 <div align="center">
 
-  <h2>💡 <b>Fun Fact:</b> <i>My Discord bots reply faster than your crush.</i> </h2> <img src="https://i.postimg.cc/QC4jhFsh/f920ed6d57874e8d85fbc33f75bfdff7.gif" width="125px" alt="Dancing">
+<table>
+<tr>
+<td align="center" valign="middle" width="140">
+
+<img src="https://i.postimg.cc/QC4jhFsh/f920ed6d57874e8d85fbc33f75bfdff7.gif" width="125" alt="Dancing">
+
+</td>
+
+<td align="left" valign="middle">
+
+<h2>💡 <b>Fun Fact:</b> <i>My Discord bots reply faster than your crush.</i></h2>
+
+</td>
+</tr>
+</table>
 
 </div>
 
