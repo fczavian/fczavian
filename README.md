@@ -39,7 +39,7 @@
 
 **💡 Fun Fact**
 
-*My Discord bots reply faster than your crush.* 😅
+*My Discord bots reply faster than your crush.*
 
 </div>
 
