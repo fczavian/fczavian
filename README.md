@@ -27,10 +27,7 @@ I'm the founder and lead developer behind [FizzyStudio](https://fizzystudio.xyz)
 
 <div align="center">
 
-<p align="center">
-  <img height="185" src="https://github-readme-stats.vercel.app/api?username=fczavian&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F2FE&icon_color=00F2FE&text_color=90A4AE&bg_color=0D1117" alt="GitHub Stats" />
-  <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fczavian&layout=compact&theme=tokyonight&hide_border=true&title_color=00F2FE&text_color=90A4AE&bg_color=0D1117" alt="Top Languages" />
-</p>
+  <img src="https://raw.githubusercontent.com/fczavian/fczavian/main/metrics.svg" alt="GitHub Metrics" width="100%" />
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=fczavian&theme=tokyonight&hide_border=true&background=0D1117&ring=00F2FE&fire=00F2FE&currStreakLabel=00F2FE" alt="GitHub Streak" />
